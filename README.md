@@ -1,10 +1,10 @@
-# 🧠 Neural X — Official Website
+##  Neural X — Official Website
 
 Welcome to the official landing page of **Neural X** — a brand focused on delivering cutting-edge AI, Data Science, and Machine Learning solutions for businesses and startups.
 
 This is the **HTML + CSS front-end version** of the website — currently under active development.
 
-## 🚀 Purpose
+##  Purpose
 
 The purpose of this site is to:
 - Showcase **Neural X's services** (AI Consulting, Machine Learning Model Development, NLP Solutions, and more)
@@ -12,12 +12,12 @@ The purpose of this site is to:
 - Provide an easy way for potential clients to contact or book services
 
 
-## 🎨 Tech Stack
+##  Tech Stack
 
 - **HTML5** — For content structure
 - **CSS3** — For styling, responsiveness, and visual design
 
-## 🌟 Features (Planned & In Progress)
+##  Features (Planned & In Progress)
 
 - [x] Homepage with company intro
 - [x] Services section (Data Science, NLP, ML Consulting)
